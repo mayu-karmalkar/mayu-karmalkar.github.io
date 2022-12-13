@@ -1,18 +1,41 @@
 {
   "files": {
-    "main.css": "/static/css/main.b0ed881e.css",
-    "main.js": "/static/js/main.588b6b1f.js",
+    "main.css": "/static/css/main.c3865488.css",
+    "main.js": "/static/js/main.36a654aa.js",
     "static/js/787.a4ba438c.chunk.js": "/static/js/787.a4ba438c.chunk.js",
+    "static/media/chart2.png": "/static/media/chart2.4165238ab1f650b8bfb5.png",
+    "static/media/chart1.png": "/static/media/chart1.466a3b7e7a269f64f85a.png",
+    "static/media/chart3.png": "/static/media/chart3.c0d8645ad8ac3be243f5.png",
     "static/media/pageside.jpg": "/static/media/pageside.32eb11221353b400491d.jpg",
     "static/media/page2.jpg": "/static/media/page2.80895b9dd95b3ad272b6.jpg",
+    "static/media/doctor1.jpg": "/static/media/doctor1.deae6c887cb51e7da382.jpg",
+    "static/media/survey.png": "/static/media/survey.e169864a7a3e7ae112e9.png",
+    "static/media/doctor7.jpg": "/static/media/doctor7.3fbe625eb9922f37efcb.jpg",
+    "static/media/doctor9.jpg": "/static/media/doctor9.8f3941f97ec10d7a7651.jpg",
+    "static/media/doctor5.jpg": "/static/media/doctor5.4e28d2b8252d8014bef7.jpg",
+    "static/media/doctor4.jpg": "/static/media/doctor4.63be3145613df18ee2db.jpg",
+    "static/media/doctor3.jpg": "/static/media/doctor3.955ea7c6b8cb405f8b55.jpg",
+    "static/media/department-5.jpg": "/static/media/department-5.70d8d7328da70989b700.jpg",
+    "static/media/doctor8.jpg": "/static/media/doctor8.abd7ae5bde08e61077b1.jpg",
+    "static/media/department-3.jpg": "/static/media/department-3.bb439df02cad09780072.jpg",
+    "static/media/department-9.jpg": "/static/media/department-9.26c96587abdf948d7327.jpg",
+    "static/media/doctor6.jpg": "/static/media/doctor6.4c7ebe1b0f4e98fd5767.jpg",
+    "static/media/doctor2.jpg": "/static/media/doctor2.4a1de317c8edd4e6440d.jpg",
+    "static/media/department-6.jpg": "/static/media/department-6.23f37be5cc38986e6d8e.jpg",
+    "static/media/department-4.jpg": "/static/media/department-4.2d085b899dbf9a647381.jpg",
+    "static/media/department-2.jpg": "/static/media/department-2.227cfb2056632c6c2e69.jpg",
+    "static/media/department-8.jpg": "/static/media/department-8.f90ffb36d4e183e5cd59.jpg",
+    "static/media/department-1.jpg": "/static/media/department-1.9fb7f055e4d41dadf057.jpg",
+    "static/media/scope.jpg": "/static/media/scope.d42a63a61d398a4602ec.jpg",
+    "static/media/contact.png": "/static/media/contact.1e7452c2a2904715b476.png",
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
-    "main.b0ed881e.css.map": "/static/css/main.b0ed881e.css.map",
-    "main.588b6b1f.js.map": "/static/js/main.588b6b1f.js.map",
+    "main.c3865488.css.map": "/static/css/main.c3865488.css.map",
+    "main.36a654aa.js.map": "/static/js/main.36a654aa.js.map",
     "787.a4ba438c.chunk.js.map": "/static/js/787.a4ba438c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b0ed881e.css",
-    "static/js/main.588b6b1f.js"
+    "static/css/main.c3865488.css",
+    "static/js/main.36a654aa.js"
   ]
 }
